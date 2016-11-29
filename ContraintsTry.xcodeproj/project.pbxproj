@@ -15,6 +15,7 @@
 		F04714BF1DED2F39003F948F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F04714BD1DED2F39003F948F /* LaunchScreen.storyboard */; };
 		F04714CA1DED2F39003F948F /* ContraintsTryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F04714C91DED2F39003F948F /* ContraintsTryTests.swift */; };
 		F04714D51DED2F39003F948F /* ContraintsTryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F04714D41DED2F39003F948F /* ContraintsTryUITests.swift */; };
+		F04714E31DED3A8B003F948F /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F04714E21DED3A8B003F948F /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F04714D01DED2F39003F948F /* ContraintsTryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContraintsTryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F04714D41DED2F39003F948F /* ContraintsTryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContraintsTryUITests.swift; sourceTree = "<group>"; };
 		F04714D61DED2F39003F948F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F04714E21DED3A8B003F948F /* ViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F04714BD1DED2F39003F948F /* LaunchScreen.storyboard */,
 				F04714C01DED2F39003F948F /* Info.plist */,
 				F04714B81DED2F39003F948F /* ContraintsTry.xcdatamodeld */,
+				F04714E21DED3A8B003F948F /* ViewController1.swift */,
 			);
 			path = ContraintsTry;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F04714E31DED3A8B003F948F /* ViewController1.swift in Sources */,
 				F04714B41DED2F39003F948F /* ViewController.swift in Sources */,
 				F04714BA1DED2F39003F948F /* ContraintsTry.xcdatamodeld in Sources */,
 				F04714B21DED2F39003F948F /* AppDelegate.swift in Sources */,
